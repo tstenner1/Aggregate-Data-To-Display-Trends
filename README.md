@@ -4,7 +4,7 @@ Using what I learned in Python Pandas I applied it to new situations. In this re
 
 ## Data Challenge 1: Heroes of Pymoli
 
-You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+I have been assigned the task of analyzing the data for a company's most recent fantasy game Heroes of Pymoli.
 
 The company wants me to generate a report that breaks down the game's purchasing data into meaningful insights.
 
