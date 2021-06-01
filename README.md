@@ -73,7 +73,7 @@ My final report includes the following:
 
 Education sector analysis. 
 
-I analyze the district-wide standardized test results.  I am given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data to and showcase obvious trends in school performance.
+I analyze the district-wide standardized test results.  I am given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data and showcase obvious trends in school performance.
 
 My final report includes the following:
 
