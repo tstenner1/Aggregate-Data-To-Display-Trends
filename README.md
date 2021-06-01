@@ -1,19 +1,14 @@
 # Pandas 
 
-Below is a trimmed down readme highlighting the specific skills executed in this assignment.
+Using what I learned in Python Pandas I applied it to new situations. In this repository I complete two Data Challenges.
 
-## Background
+## Data Challenge 1: Heroes of Pymoli
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
+You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
-## Heroes of Pymoli
+The company wants me to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+My final report includes the following:
 
 ### Player Count
 
@@ -74,15 +69,13 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-## Option 2: PyCitySchools
+## Data Challenge 2: PyCitySchools
 
+Education sector analysis. 
 
+Analyze the district-wide standardized test results.  I am given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
-Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. 
-
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
-
-Your final report should include each of the following:
+My final report includes the following:
 
 ### District Summary
 
